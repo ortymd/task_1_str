@@ -23,8 +23,7 @@ void rm_from_str( char *ch, char *s)
 		}
 		else
 		{
-			++ch;
+			++found;
 		}
-		++found;
 	}
 }
